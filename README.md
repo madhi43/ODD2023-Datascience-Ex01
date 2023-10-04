@@ -152,3 +152,7 @@ df['Credit_History']=df['Credit_History'].fillna(df['Credit_History'].median())
 df.head()
 ```
 ![2023-08-26 (45)](https://github.com/madhi43/ODD2023-Datascience-Ex01/assets/103943383/640ffaad-efc2-4163-847d-ada3242df79d)
+
+# RESULT
+Thus the given data is performed data cleaning and saved the cleaned data to a file. 
+
